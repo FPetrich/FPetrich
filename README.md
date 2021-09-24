@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @FPetrich
+- 🌱 I’m currently learning SAPUI5, JavaScript, HTML.
